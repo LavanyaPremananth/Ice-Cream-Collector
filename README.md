@@ -8,6 +8,7 @@ Welcome to the Ice Cream Collector Game, a simple web-based game created using t
 ## Demo
 Check out the live demo of the game: [Ice Cream Collector Game](https://ice-cream-collector.vercel.app/)
 
+
 ## Description
 
 This game features a character navigating through a snowy environment collecting ice cream cones. The project uses p5.js for the game's graphics and animation.
