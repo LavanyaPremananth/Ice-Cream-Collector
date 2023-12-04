@@ -1,6 +1,3 @@
-# IceCreamCollector
-A simple game built using P5.js Library and JavaScript. 
-
 # Ice Cream Collector Game
 
 Welcome to the Ice Cream Collector Game, a simple web-based game created using the p5.js library and JavaScript.
